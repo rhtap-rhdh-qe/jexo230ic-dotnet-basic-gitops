@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: jexo230ic-dotnet-basic-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/jexo230ic-dotnet-basic
